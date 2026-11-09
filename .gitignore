@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# 运行产物（可重生成，不入库）
+outputs/
+*.png
+*.csv
+*.log
+*.npz
+*.pt
+*.pth
+
+# 调试/草稿
+_scratch/
+scratch/
+
+# 环境
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
